@@ -1,0 +1,126 @@
+@media (max-width: 768px) {
+  .btn-responsive {
+    padding:2px 4px;
+    font-size:80%;
+    line-height: 1;
+    border-radius:3px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .btn-responsive {
+    padding:4px 9px;
+    font-size:90%;
+    line-height: 1.2;
+  }
+}
+
+
+.naslov {
+	font-size: 13px;
+	text-align: left;
+	/* padding-top: 10px; */
+	margin-left: 5px;
+	margin-right: 25px;
+	color: #5D5D5E;
+	overflow: hidden;
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+.active a {
+    background-color: none;
+    color: #bbb;
+}
+
+.nagrada {
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	margin: 0;
+}
+
+.nagrada_okno {
+	font-size: 30px;
+	text-align: center;
+	color: #E91E63;
+	font-family: "Open Sans", sans-serif;
+}
+
+.hiddenContent p
+{
+	display: none;
+	text-align: center;
+}
+
+.divider-content {
+	display: block;
+	padding-top: 15px;
+}
+
+.podjetje {
+	padding: 10px;
+
+}
+
+.podjetje_slika {
+	float: left;
+	max-height: 40px;
+	padding-right: 10px;
+}
+
+/* Ikona ure */
+.glyphicons-lg {
+	font-size: 35px;
+	padding-right: 10px;
+}
+
+/* Novo okno - Sodeluj in zadeni */
+.razmah {
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+.bottom {
+    border-top: 1px solid #ccc;
+}
+
+.opis {
+	text-align: justify;
+	padding-right: 7px;
+	overflow: ellipsis;
+}
+
+.velikost_slike {
+	padding-top: 30px;
+	max-height: 100px;
+	max-width: 100%;
+	-webkit-border-radius: 50%;
+}
+
+.vertical-line {
+	padding-left: 100%;
+	border-right: 1px solid #ccc;
+}
+
+.pisava {
+	text-align: center;
+	color: #E91E63;
+	font-family: Georgia, serif;
+	font-size: 15px;
+}
+
+.crta {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+.pisava2 {
+	font-family: Arial;	
+	font-size: 18px;
+}
+
+.black {
+	color:black;
+}
+
